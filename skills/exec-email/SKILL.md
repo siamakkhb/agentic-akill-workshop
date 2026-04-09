@@ -3,6 +3,7 @@ name: exec-email
 description: Draft a crisp, structured email from a Product Manager to Amazon L7+ executive audience (Directors, VPs, SVPs)
 version: 1.0.0
 author: siamakkhb
+license: MIT
 tags: [email, executive, communication, product-manager, amazon]
 ---
 
