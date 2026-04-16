@@ -5,6 +5,8 @@ version: 1.0.0
 author: siamakkhb
 license: MIT
 tags: [mermaid, diagram, visualization, flowchart, vscode]
+repository: https://github.com/siamakkhb/agentic-skills-workshop
+compatibility: [claude-code, cursor, claude]
 ---
 
 ## When to Use
